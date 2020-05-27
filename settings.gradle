@@ -1,0 +1,2 @@
+rootProject.name='PosApp'
+include ':app'
